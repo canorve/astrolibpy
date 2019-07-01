@@ -1,4 +1,4 @@
-#MPFIT
+# MPFIT
 
 This is a corrected mpfit version of [segasai](https://github.com/segasai/astrolibpy)
 
